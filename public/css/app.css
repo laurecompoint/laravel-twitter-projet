@@ -1,0 +1,62 @@
+
+    .buttonpassword{
+        border: none;
+        position: absolute;
+        right: 1.5px;
+        top: 19px;
+        transform: translate(-50%, -50%);
+        text-decoration: line;
+        filter: grayscale(60%);
+        cursor: pointer;
+        
+    }
+    .buttonpassword2{
+        border: none;
+        position: absolute;
+        right: 1px;
+        top: 54%;
+        transform: translate(-50%, -50%);
+        text-decoration: line;
+        filter: grayscale(60%);
+        cursor: pointer;
+        
+    }
+    .buttonpassword3{
+        border: none;
+        position: absolute;
+        right: 1px;
+        top: 79%;
+        transform: translate(-50%, -50%);
+        text-decoration: line;
+        filter: grayscale(60%);
+        cursor: pointer;
+        
+    }
+    
+    #icon-vue {
+        right: 24px;
+        top: 77%;
+        width: 22px;
+        position: absolute;
+        filter: grayscale(60%);
+        display: none;
+        cursor: pointer;
+    }
+    #icon-vuelogin {
+        right: 25px;
+        top: 30%;
+        width: 22px;
+        position: absolute;
+        filter: grayscale(60%);
+        display: none;
+        cursor: pointer;
+    }
+    .positiondelteavatar{
+        position: absolute;
+        top: 215px;
+        right: 385px;
+
+    }
+  
+   
+
